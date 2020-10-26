@@ -1,2 +1,2 @@
 # PyClipX
-Un getsor de porta papales facil de usar
+Un getsor de portapapales facil de usar.
