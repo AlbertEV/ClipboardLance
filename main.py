@@ -24,7 +24,7 @@ class MyFrame(wx.Frame):
         kwds["style"] = kwds.get("style", 0) | wx.DEFAULT_FRAME_STYLE
         wx.Frame.__init__(self, *args, **kwds)
         self.SetSize((487, 596))
-        self.SetTitle("PyClipX-0.1")
+        self.SetTitle("ClipboardLance0.1")
 
         self.panel_1 = wx.Panel(self, wx.ID_ANY)
 
